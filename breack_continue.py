@@ -6,3 +6,9 @@ while contador < maximo:
     if contador % 4 == 0:
         continue    
     print(contador)
+    if contador == 38:
+        break
+
+print(contador)
+print("Fim do Contador")
+    
