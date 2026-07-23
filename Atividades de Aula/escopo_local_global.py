@@ -6,3 +6,4 @@ resultado = divisao(500, 6)
 
 print("O resultado é:", resultado)
 print("O resultado aqui fora é:", resultado)
+
